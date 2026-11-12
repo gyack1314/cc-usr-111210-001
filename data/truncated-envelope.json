@@ -1,0 +1,11 @@
+{
+  "partner": "partner-demo",
+  "source": {
+    "path": "truncated.edi",
+    "bytes": 199,
+    "sha256": "b46d62e97a0efb9845d79b53049a268318ae5cd381ff06c523cf1ffb3a49a61f"
+  },
+  "charset": "iso-8859-1",
+  "chunk_size": 7,
+  "max_segment_bytes": 1048576
+}

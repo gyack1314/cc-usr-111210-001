@@ -1,0 +1,11 @@
+{
+  "partner": "partner-demo",
+  "source": {
+    "path": "shipment.edi",
+    "bytes": 204,
+    "sha256": "84f2777615b6834cc5ceb77cd9ec3edf70f1d9d5862ed11cd344a64c43d28a1d"
+  },
+  "charset": "iso-8859-1",
+  "chunk_size": 7,
+  "max_segment_bytes": 1048576
+}
